@@ -25,7 +25,7 @@ Um apaixonado desenvolvedor `Frontend / Backend / Full Stack`, amante do código
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
-## 💻 Meus estatísticas no GitHub
+## 💻 Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvbauer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
