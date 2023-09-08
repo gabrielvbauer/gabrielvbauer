@@ -2,8 +2,6 @@
 
 Um apaixonado desenvolvedor `Frontend / Backend / Full Stack`, amante do código e entusiasta de `ReactJS e NodeJS`. Adoro transformar ideias em realidade usando código.
 
-📍 Atualmente em `Ijuí, Brasil`
-
 
 ## 🖥️ Coisas que gosto de fazer
 
