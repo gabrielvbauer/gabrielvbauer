@@ -1,17 +1,5 @@
 # Olá, eu sou o Gabriel 👋
 
-Um apaixonado desenvolvedor `Frontend / Backend / Full Stack`, amante do código e entusiasta de `ReactJS e NodeJS`. Adoro transformar ideias em realidade usando código.
-
-
-## 🖥️ Coisas que gosto de fazer
-
-- **Programar**: Sou apaixonado por transformar ideias em realidade através do código.
-- **Aprender**: Estou constantemente estudando e aprendendo novas tecnologias e técnicas.
-- **Astronomia**: Apesar de não praticar muito, este é um do meus gostos que tenho muito interesse em me aprofundar.
-
-
-## 🔧 Tecnologias e Ferramentas
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
